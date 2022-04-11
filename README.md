@@ -31,7 +31,7 @@ module.exports = ({ env }) => ({
   // ...
   upload: {
     config: {
-      provider: "cloudcube-s3",
+      provider: "strapi-provider-upload-cloudcube-s3",
       providerOptions: {
         accessKeyId: env("CLOUDCUBE_ACCESS_KEY_ID"), // AWS S3 Access Key
         secretAccessKey: env("CLOUDCUBE_SECRET_ACCESS_KEY"), // AWS S3 Secret Key
