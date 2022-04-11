@@ -101,21 +101,3 @@ node_modules
 
 testApp
 coverage
-
-############################
-# Strapi
-############################
-
-.env
-license.txt
-exports
-*.cache
-build
-.strapi-updater.json
-
-############################
-# Heroku
-# TODO: Allow package-lock.json versionning
-############################
-
-package-lock.json

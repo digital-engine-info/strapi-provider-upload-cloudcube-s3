@@ -1,10 +1,26 @@
 {
   "name": "@strapi/provider-upload-cloudcube-s3",
   "version": "1.0.0",
-  "description": "",
+  "description": "A strapi upload provider for Cloudcube S3 Heroku storage",
   "license": "MIT",
   "author": {
-    "name": "Florian Briand (Liberte Living Lab)"
+    "name": "Florian Briand <contact@digital-engine.info> (https://github.com/nabellaleen)"
+  },
+  "keywords": [
+    "upload",
+    "aws",
+    "s3",
+    "cloudcube",
+    "heroku",
+    "strapi"
+  ],
+  "homepage": "https://github.com/digital-engine-info/strapi-provider-upload-cloudcube-s3",
+  "bugs": {
+    "url": "https://github.com/digital-engine-info/strapi-provider-upload-cloudcube-s3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/digital-engine-info/strapi-provider-upload-cloudcube-s3.git"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
