@@ -1,5 +1,5 @@
 {
-  "name": "@strapi/provider-upload-cloudcube-s3",
+  "name": "strapi-provider-upload-cloudcube-s3",
   "version": "1.0.0",
   "description": "A strapi upload provider for Cloudcube S3 Heroku storage",
   "license": "MIT",

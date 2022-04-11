@@ -1,4 +1,4 @@
-# @strapi/provider-upload-cloudcube-s3
+# strapi-provider-upload-cloudcube-s3
 
 This package is strongly inspired from the [official upload S3 provider from Strapi](https://www.npmjs.com/package/strapi-provider-upload-aws-s3)
 
@@ -10,10 +10,10 @@ This package is strongly inspired from the [official upload S3 provider from Str
 
 ```bash
 # using yarn
-yarn add @strapi/provider-upload-cloudcube-s3
+yarn add strapi-provider-upload-cloudcube-s3
 
 # using npm
-npm install @strapi/provider-upload-cloudcube-s3 --save
+npm install strapi-provider-upload-cloudcube-s3 --save
 ```
 
 ## Configurations
