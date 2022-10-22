@@ -60,7 +60,7 @@ module.exports = [
     config: {
       contentSecurityPolicy: {
         useDefaults: true,
-        directi
+        directives:{
           'connect-src': ["'self'", 'https:'],
           'img-src': ["'self'", "data:", "blob:", cloudcubeBucketHostname],
           'media-src': ["'self'", "data:", "blob:", cloudcubeBucketHostname],
